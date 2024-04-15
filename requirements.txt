@@ -1,0 +1,11 @@
+-PyTorch: For deep learning tasks and building neural networks.
+pip install torch
+
+-Matplotlib: For data visualization, including plotting loss and accuracy curves.
+pip install matplotlib
+
+-NumPy: For numerical computations and data manipulation.
+pip install numpy
+
+-torchvision: For loading and preprocessing datasets such as CIFAR-10.
+pip install torchvision
